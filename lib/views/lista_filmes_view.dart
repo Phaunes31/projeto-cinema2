@@ -31,7 +31,7 @@ class _ListaFilmesViewState extends State<ListaFilmesView> {
           title: const Text('Informações do Grupo'),
           // SUBSTITUIR pelos nomes reais do seu grupo
           content: const Text(
-              'Equipe: Maellyson Daniel , Erick Duarte e Felipe cunha'),
+              'Equipe:francisco paulo, paulo henrique, marcos eduardo targino'),
           actions: <Widget>[
             TextButton(
               onPressed: () => Navigator.of(context).pop(),
@@ -195,3 +195,4 @@ class _ListaFilmesViewState extends State<ListaFilmesView> {
     );
   }
 }
+
